@@ -18,12 +18,6 @@ A desktop application developed as part of my undergraduate thesis (Mechanical E
 - ✅ **Lightweight** – runs on low-spec laptops (no GPU required)
 - ✅ **Pure Python** – easy to modify and distribute
 
-## 🎯 Motivation
-
-Commercial structural analysis software (e.g., ANSYS, Abaqus, SAP2000) is expensive and often requires high-end hardware. Many students cannot afford them or resort to illegal versions. Even free/open-source alternatives (e.g., CalculiX) still have a steep learning curve.
-
-This application aims to provide a **simple, accessible, and educational** tool for students to learn FEM and analyze 2D structures without powerful computers.
-
 ## 🖥️ Requirements
 
 - Python 3.8 or higher
