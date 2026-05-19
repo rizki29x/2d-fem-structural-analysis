@@ -9,13 +9,12 @@ A desktop application developed as part of my undergraduate thesis (Mechanical E
 
 - ✅ **Multiple load types** – point load, uniformly distributed load (UDL), moment
 - ✅ **Multiple loads** – combine several loads on the same structure
-- ✅ **Structure types** – Beam, Truss, Frame (2D)
+- ✅ **Structure types** – Beam, Truss, Frame, Grid (2D)
 - ✅ **Outputs**:
   - Nodal displacements
   - Reaction forces
   - Element stresses/forces
   - **Free-body diagrams** before and after loading
-- ✅ **Lightweight** – runs on low-spec laptops (no GPU required)
 - ✅ **Pure Python** – easy to modify and distribute
 
 ## 🖥️ Requirements
