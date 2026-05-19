@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A desktop application developed as part of my undergraduate thesis (Mechanical Engineering, University of Riau, 2024). This tool performs **2D structural analysis** using the **Finite Element Method (FEM)** for beams, trusses, frames, and grid. Unlike previous versions that only supported single loads, this application can handle **multiple loads simultaneously** (point loads, distributed loads, moments).
+A desktop application developed as part of my undergraduate thesis (Mechanical Engineering, University of Riau, 2024). This tool performs **2D structural analysis** using the **Finite Element Method (FEM)** for beams, trusses, frames, and grid.
 
 ## ✨ Features
 
